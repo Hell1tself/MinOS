@@ -12,8 +12,3 @@
 
 ## 📦 Скачать
 Перейдите в раздел Releases(https://github.com/Hell1self/MinOS/releases) и скачайте последнюю версию.
-
-## 🛠 Сборка из исходников
-```bash
-pip install -r requirements.txt
-python MinOS.py
