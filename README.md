@@ -1,3 +1,4 @@
+![MinOS Logo](images/logo.png)
 # 🌿 MinOS
 
 Операционная система, написанная на Python.
