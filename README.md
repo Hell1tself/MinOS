@@ -1,4 +1,4 @@
-![MinOS Logo] img = Image.open(r"C:\Users\AMD\Desktop\logo.jpg")
+<img width="708" height="693" alt="logo" src="https://github.com/user-attachments/assets/85a9702e-fb43-49db-ba90-d7850d3b2ba8" />
 
 # 🌿 MinOS
 
