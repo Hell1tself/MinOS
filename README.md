@@ -1,4 +1,4 @@
-<img width="461" height="416" alt="logo" src="https://github.com/user-attachments/assets/85a9702e-fb43-49db-ba90-d7850d3b2ba8" />
+<img width="361" height="316" alt="logo" src="https://github.com/user-attachments/assets/85a9702e-fb43-49db-ba90-d7850d3b2ba8" />
 
 # 🌿 MinOS
 
