@@ -1,4 +1,5 @@
-![MinOS Logo](images/logo.png)
+![MinOS Logo] img = Image.open(r"C:\Users\AMD\Desktop\logo.jpg")
+
 # 🌿 MinOS
 
 Операционная система, написанная на Python.
